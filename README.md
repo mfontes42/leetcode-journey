@@ -15,24 +15,6 @@ I recently started learning **Python**, using it to solve LeetCode problems and 
 * Master Pandas for data manipulation and analysis.
 * Build a solid foundation for Data Science and technical interviews.
 
-## 📂 Repository Structure
-
-```text
-LeetCode
-│
-├── Python
-│   ├── Easy
-│   ├── Medium
-│   └── Hard
-│
-├── Pandas
-│   ├── Exercises
-│   ├── LeetCode
-│   └── Notes
-│
-└── Notes
-```
-
 > The repository structure may evolve as I continue learning and tackling more problems.
 
 ## 🛠️ Technologies

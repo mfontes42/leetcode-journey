@@ -55,3 +55,15 @@ I started this journey to become a better programmer by consistently practicing 
 This repository will grow over time as I solve more LeetCode problems, explore Pandas, and continue building my skills in programming and Data Science.
 
 Every solved problem is another step toward becoming a more confident and capable developer.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mfontes42/leetcode-journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mfontes42/leetcode-journey/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

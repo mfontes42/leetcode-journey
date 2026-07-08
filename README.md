@@ -45,6 +45,7 @@ Every solved problem is another step toward becoming a more confident and capabl
 | ------- |
 | [0001-two-sum](https://github.com/mfontes42/leetcode-journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mfontes42/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/mfontes42/leetcode-journey/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,12 @@ Every solved problem is another step toward becoming a more confident and capabl
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mfontes42/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mfontes42/leetcode-journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mfontes42/leetcode-journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
